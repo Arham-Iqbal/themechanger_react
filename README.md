@@ -92,16 +92,6 @@ This is a simple theme toggler application built using **React** and **Tailwind 
 - The app starts with the **light** theme.
 - You can toggle the theme by clicking the **"Toggle Theme"** button.
 
-## Screenshots
-
-### Light Theme
-
-![Light Theme Screenshot](light-theme.png)
-
-### Dark Theme
-
-![Dark Theme Screenshot](dark-theme.png)
-
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify it!
